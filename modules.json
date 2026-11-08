@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "key": "system_01",
+    "en": "Habit Engine",
+    "ar": "محرك العادات",
+    "description": "إنشاء العادات، تصنيفها، جدولتها، تسجيل الإنجاز اليومي، وسجل الالتزام."
+  },
+  {
+    "id": 2,
+    "key": "system_02",
+    "en": "Discipline Core",
+    "ar": "نواة الانضباط",
+    "description": "قواعد يومية والتزامات أساسية ومراجعة تنفيذها."
+  },
+  {
+    "id": 3,
+    "key": "system_03",
+    "en": "Life Dimensions",
+    "ar": "أبعاد الحياة",
+    "description": "تقييم العقل والجسد والشخصية والروح والدراسة والمال والعلاقات."
+  },
+  {
+    "id": 4,
+    "key": "system_04",
+    "en": "Command Center",
+    "ar": "مركز القيادة",
+    "description": "لوحة تجمع مؤشرات اليوم والمهام والعادات والأهداف."
+  },
+  {
+    "id": 5,
+    "key": "system_05",
+    "en": "Time Intelligence",
+    "ar": "ذكاء الوقت",
+    "description": "تخطيط اليوم وتسجيل الوقت ومراجعة توزيعه."
+  },
+  {
+    "id": 6,
+    "key": "system_06",
+    "en": "Mission System",
+    "ar": "نظام المهمات",
+    "description": "إدارة المهمات والأولويات والمواعيد والحالات."
+  },
+  {
+    "id": 7,
+    "key": "system_07",
+    "en": "Streak Engine",
+    "ar": "محرك الاستمرارية",
+    "description": "حساب أيام الالتزام المتتالية وأفضل سلسلة."
+  },
+  {
+    "id": 8,
+    "key": "system_08",
+    "en": "Intelligence Engine",
+    "ar": "محرك التحليل",
+    "description": "تحليل الإنجاز وتقديم ملاحظات قائمة على البيانات المسجلة."
+  },
+  {
+    "id": 9,
+    "key": "system_09",
+    "en": "Human Performance",
+    "ar": "الأداء البشري",
+    "description": "تسجيل النوم والطاقة والمزاج والأداء اليومي."
+  },
+  {
+    "id": 10,
+    "key": "system_10",
+    "en": "Anti-Habit System",
+    "ar": "نظام مكافحة العادات",
+    "description": "تسجيل المحفزات والرغبات والانتكاسات وخطط الاستجابة."
+  },
+  {
+    "id": 11,
+    "key": "system_11",
+    "en": "Challenge Arena",
+    "ar": "ساحة التحديات",
+    "description": "إنشاء تحديات محددة المدة ومتابعة التقدم."
+  },
+  {
+    "id": 12,
+    "key": "system_12",
+    "en": "Achievement Vault",
+    "ar": "خزانة الإنجازات",
+    "description": "توثيق الإنجازات والشارات المكتسبة."
+  },
+  {
+    "id": 13,
+    "key": "system_13",
+    "en": "Reporting System",
+    "ar": "نظام التقارير",
+    "description": "ملخصات يومية وأسبوعية ومؤشرات قابلة للتصدير."
+  },
+  {
+    "id": 14,
+    "key": "system_14",
+    "en": "Routine Architect",
+    "ar": "مهندس الروتين",
+    "description": "إنشاء روتينات صباحية ومسائية وأسبوعية."
+  },
+  {
+    "id": 15,
+    "key": "system_15",
+    "en": "Deep Focus",
+    "ar": "التركيز العميق",
+    "description": "مؤقت تركيز قابل للضبط وسجل الجلسات."
+  },
+  {
+    "id": 16,
+    "key": "system_16",
+    "en": "Smart Habits",
+    "ar": "العادات الذكية",
+    "description": "ربط العادات بالمحفزات والمكان والوقت والمكافأة."
+  },
+  {
+    "id": 17,
+    "key": "system_17",
+    "en": "Self Audit",
+    "ar": "التدقيق الذاتي",
+    "description": "مراجعة دورية وتقييم نقاط القوة ومجالات التحسين."
+  },
+  {
+    "id": 18,
+    "key": "system_18",
+    "en": "Reward & Consequence",
+    "ar": "المكافأة والعاقبة",
+    "description": "تعريف مكافآت شخصية وعواقب آمنة وغير مؤذية."
+  },
+  {
+    "id": 19,
+    "key": "system_19",
+    "en": "Personalization Engine",
+    "ar": "محرك التخصيص",
+    "description": "تخصيص الاسم والهوية والأهداف والألوان والتفضيلات."
+  },
+  {
+    "id": 20,
+    "key": "system_20",
+    "en": "Notification Intelligence",
+    "ar": "ذكاء التنبيهات",
+    "description": "إعداد تذكيرات داخل التطبيق؛ دعم إشعارات Android عند توفر صلاحيات النظام."
+  },
+  {
+    "id": 21,
+    "key": "system_21",
+    "en": "Data Vault",
+    "ar": "خزنة البيانات",
+    "description": "نسخ احتياطي JSON واستعادة قاعدة البيانات."
+  },
+  {
+    "id": 22,
+    "key": "system_22",
+    "en": "Additional Features",
+    "ar": "الميزات الإضافية",
+    "description": "مساحة ملاحظات وأفكار وأدوات مساندة قابلة للتوسع."
+  },
+  {
+    "id": 23,
+    "key": "system_23",
+    "en": "Design System",
+    "ar": "نظام التصميم",
+    "description": "ألوان وخطوط ومكونات موحدة للواجهات."
+  },
+  {
+    "id": 24,
+    "key": "system_24",
+    "en": "System Architecture",
+    "ar": "معمارية النظام",
+    "description": "فصل قاعدة البيانات والخدمات والواجهات والوحدات."
+  },
+  {
+    "id": 25,
+    "key": "system_25",
+    "en": "Sketchware Pro Integration",
+    "ar": "تكامل Sketchware Pro",
+    "description": "ملفات توثيق API/JSON للتكامل الاختياري مع أدوات خارجية."
+  },
+  {
+    "id": 26,
+    "key": "system_26",
+    "en": "Implementation Roadmap",
+    "ar": "خارطة التنفيذ",
+    "description": "مراحل تطوير ومراجعة وإصدارات المشروع."
+  },
+  {
+    "id": 27,
+    "key": "system_27",
+    "en": "Testing System",
+    "ar": "نظام الاختبارات",
+    "description": "اختبارات آلية للبيانات والحسابات والوظائف الأساسية."
+  },
+  {
+    "id": 28,
+    "key": "system_28",
+    "en": "Rebirth Score",
+    "ar": "نقاط الولادة من جديد",
+    "description": "مؤشر تقدمي موزون من العادات والمهام والأهداف والمراجعات."
+  },
+  {
+    "id": 29,
+    "key": "system_29",
+    "en": "Top 10 Features",
+    "ar": "أفضل عشر ميزات",
+    "description": "اختيار أهم عشرة أهداف أو أولويات وعرضها في المركز."
+  },
+  {
+    "id": 30,
+    "key": "system_30",
+    "en": "Final Identity System",
+    "ar": "نظام الهوية النهائية",
+    "description": "تعريف الهوية المستهدفة وكتابة ميثاق شخصي ومراجعة التقدم."
+  }
+]
