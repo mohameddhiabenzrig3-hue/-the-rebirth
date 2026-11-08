@@ -1,0 +1,188 @@
+{
+  "name": "THE REBIRTH",
+  "version": "1.0.0",
+  "integration": "optional",
+  "note": "Schema reference for future integrations; this app does not expose a network API.",
+  "modules": [
+    {
+      "id": 1,
+      "key": "system_01",
+      "name": "محرك العادات",
+      "name_en": "Habit Engine"
+    },
+    {
+      "id": 2,
+      "key": "system_02",
+      "name": "نواة الانضباط",
+      "name_en": "Discipline Core"
+    },
+    {
+      "id": 3,
+      "key": "system_03",
+      "name": "أبعاد الحياة",
+      "name_en": "Life Dimensions"
+    },
+    {
+      "id": 4,
+      "key": "system_04",
+      "name": "مركز القيادة",
+      "name_en": "Command Center"
+    },
+    {
+      "id": 5,
+      "key": "system_05",
+      "name": "ذكاء الوقت",
+      "name_en": "Time Intelligence"
+    },
+    {
+      "id": 6,
+      "key": "system_06",
+      "name": "نظام المهمات",
+      "name_en": "Mission System"
+    },
+    {
+      "id": 7,
+      "key": "system_07",
+      "name": "محرك الاستمرارية",
+      "name_en": "Streak Engine"
+    },
+    {
+      "id": 8,
+      "key": "system_08",
+      "name": "محرك التحليل",
+      "name_en": "Intelligence Engine"
+    },
+    {
+      "id": 9,
+      "key": "system_09",
+      "name": "الأداء البشري",
+      "name_en": "Human Performance"
+    },
+    {
+      "id": 10,
+      "key": "system_10",
+      "name": "نظام مكافحة العادات",
+      "name_en": "Anti-Habit System"
+    },
+    {
+      "id": 11,
+      "key": "system_11",
+      "name": "ساحة التحديات",
+      "name_en": "Challenge Arena"
+    },
+    {
+      "id": 12,
+      "key": "system_12",
+      "name": "خزانة الإنجازات",
+      "name_en": "Achievement Vault"
+    },
+    {
+      "id": 13,
+      "key": "system_13",
+      "name": "نظام التقارير",
+      "name_en": "Reporting System"
+    },
+    {
+      "id": 14,
+      "key": "system_14",
+      "name": "مهندس الروتين",
+      "name_en": "Routine Architect"
+    },
+    {
+      "id": 15,
+      "key": "system_15",
+      "name": "التركيز العميق",
+      "name_en": "Deep Focus"
+    },
+    {
+      "id": 16,
+      "key": "system_16",
+      "name": "العادات الذكية",
+      "name_en": "Smart Habits"
+    },
+    {
+      "id": 17,
+      "key": "system_17",
+      "name": "التدقيق الذاتي",
+      "name_en": "Self Audit"
+    },
+    {
+      "id": 18,
+      "key": "system_18",
+      "name": "المكافأة والعاقبة",
+      "name_en": "Reward & Consequence"
+    },
+    {
+      "id": 19,
+      "key": "system_19",
+      "name": "محرك التخصيص",
+      "name_en": "Personalization Engine"
+    },
+    {
+      "id": 20,
+      "key": "system_20",
+      "name": "ذكاء التنبيهات",
+      "name_en": "Notification Intelligence"
+    },
+    {
+      "id": 21,
+      "key": "system_21",
+      "name": "خزنة البيانات",
+      "name_en": "Data Vault"
+    },
+    {
+      "id": 22,
+      "key": "system_22",
+      "name": "الميزات الإضافية",
+      "name_en": "Additional Features"
+    },
+    {
+      "id": 23,
+      "key": "system_23",
+      "name": "نظام التصميم",
+      "name_en": "Design System"
+    },
+    {
+      "id": 24,
+      "key": "system_24",
+      "name": "معمارية النظام",
+      "name_en": "System Architecture"
+    },
+    {
+      "id": 25,
+      "key": "system_25",
+      "name": "تكامل Sketchware Pro",
+      "name_en": "Sketchware Pro Integration"
+    },
+    {
+      "id": 26,
+      "key": "system_26",
+      "name": "خارطة التنفيذ",
+      "name_en": "Implementation Roadmap"
+    },
+    {
+      "id": 27,
+      "key": "system_27",
+      "name": "نظام الاختبارات",
+      "name_en": "Testing System"
+    },
+    {
+      "id": 28,
+      "key": "system_28",
+      "name": "نقاط الولادة من جديد",
+      "name_en": "Rebirth Score"
+    },
+    {
+      "id": 29,
+      "key": "system_29",
+      "name": "أفضل عشر ميزات",
+      "name_en": "Top 10 Features"
+    },
+    {
+      "id": 30,
+      "key": "system_30",
+      "name": "نظام الهوية النهائية",
+      "name_en": "Final Identity System"
+    }
+  ]
+}
